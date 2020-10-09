@@ -1,20 +1,29 @@
 ## body-temp-report
 
-Feel free using expo to test it.
+## Demo
+- `./demo.mp4`
+
+## Run with expo
+- https://expo.io/@ike.chang/projects/body-temp-report
+
+## Run with snack
+
+## Run locally
 
 ### Install
 
 ```
+yarn global add expo-cli
 yarn
 ```
 
-### Run ios
+### Run on ios
 
 ```
 yarn ios
 ```
 
-### Run android
+### Run on android
 
 ```
 yarn android
